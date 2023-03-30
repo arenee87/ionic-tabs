@@ -1,0 +1,7 @@
+{
+  "name": "l04-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
